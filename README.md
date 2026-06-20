@@ -180,13 +180,13 @@ The project includes extensive validation mechanisms:
 ## Compile the Program
 
 ```bash
-javac Question_104.java
+javac QUIZ_APPLICATION.java
 ```
 
 ## Run the Program
 
 ```bash
-java Question_104
+java QUIZ_APPLICATION
 ```
 
 ---
